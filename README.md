@@ -209,19 +209,7 @@ Both functions return structured JSON with comprehensive error handling.
 - Integration tests for API endpoints
 - E2E tests with Cypress
 
-## 📝 Resume Highlights
 
-This project demonstrates:
-- ✅ Full MERN stack expertise
-- ✅ AI/ML integration (Gemini API)
-- ✅ Scalable architecture (services, controllers, models)
-- ✅ State management (Redux Toolkit)
-- ✅ JWT authentication & authorization
-- ✅ MongoDB hierarchical data modeling
-- ✅ RESTful API design
-- ✅ Error handling & validation
-- ✅ Modern UI/UX with Tailwind CSS
-- ✅ Responsive design principles
 
 ## 📄 License
 
